@@ -97,3 +97,4 @@ C:\Users\julian.vargas\Desktop\BootcampTDD\AñoBisiesto\AñoBisiesto\obj\Debug\n
 C:\Users\julian.vargas\Desktop\BootcampTDD\AñoBisiesto\AñoBisiesto\obj\Debug\net9.0\AñoBisiesto.pdb
 C:\Users\julian.vargas\Desktop\BootcampTDD\AñoBisiesto\AñoBisiesto\obj\Debug\net9.0\AñoBisiesto.genruntimeconfig.cache
 C:\Users\julian.vargas\Desktop\BootcampTDD\AñoBisiesto\AñoBisiesto\obj\Debug\net9.0\ref\AñoBisiesto.dll
+C:\Users\julian.vargas\Desktop\BootcampTDD\AñoBisiesto\AñoBisiesto\obj\Debug\net9.0\AñoBisiesto.sourcelink.json
