@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b969aeb-35c6-4b9e-88c4-695866abf264" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AñoBisiesto/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AñoBisiesto/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AñoBisiesto/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AñoBisiesto/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AñoBisiesto.sln" beforeDir="false" afterPath="$PROJECT_DIR$/KatasTDD.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AñoBisiesto/AñoBisiesto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AñoBisiesto/AnioBisiesto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AñoBisiesto/bin/Debug/net9.0/AñoBisiesto.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AñoBisiesto/bin/Debug/net9.0/AñoBisiesto.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AñoBisiesto/bin/Debug/net9.0/AñoBisiesto.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AñoBisiesto/bin/Debug/net9.0/AñoBisiesto.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/AñoBisiesto.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/AñoBisiesto.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/AñoBisiesto.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/AñoBisiesto.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/AñoBisiesto.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/AñoBisiesto.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/AñoBisiesto.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/AñoBisiesto.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/AñoBisiesto.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/AñoBisiesto.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/AñoBisiesto.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/AñoBisiesto.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/ref/AñoBisiesto.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/ref/AñoBisiesto.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/refint/AñoBisiesto.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AñoBisiesto/obj/Debug/net9.0/refint/AñoBisiesto.dll" afterDir="false" />
-    </list>
+    <list default="true" id="0b969aeb-35c6-4b9e-88c4-695866abf264" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760713489086</updated>
-      <workItem from="1760713490697" duration="8139000" />
+      <workItem from="1760713490697" duration="8725000" />
     </task>
     <servers />
   </component>
