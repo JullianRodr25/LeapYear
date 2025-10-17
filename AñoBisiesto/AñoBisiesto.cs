@@ -20,9 +20,16 @@ public class AñoBisiesto
         var divisionEntreCuatro = DivisionEntreCuatro(año);
         divisionEntreCuatro.Should().Be(true);
     }
+
+    [Fact]
+
+    public void Si_ElAñoEsDivisblePorCienYNoPorCuatrocientos_Deberia_RetornarFalso()
+    {
+        var divisionEntreCuatroCientos = DivisionEntreCuatro(600);
+        divisionEntreCuatroCientos.Should().Be(false);
+    }
     
-    
-    private bool DivisionEntreCuatro(int año)
+    private static bool DivisionEntreCuatro(int año)
     {
         return año % 4 == 0;
     }
