@@ -31,6 +31,10 @@ public class AñoBisiesto
     
     private static bool DivisionEntreCuatro(int año)
     {
-        return año % 4 == 0;
+        if (año % 4 != 0)
+            return false;
+        if (año % 100 == 0 && año % 400 != 0)
+            return false;
+        return true;
     }
 }
