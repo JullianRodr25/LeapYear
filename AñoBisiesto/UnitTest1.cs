@@ -11,8 +11,10 @@ public class UnitTest1
         divisionEntreCuatro.Should().Be(false);
     }
 
-    private object DivisionEntreCuatro(int i)
+    private bool DivisionEntreCuatro(int año)
     {
+        if (año % 4 == 0)
+             return true;
         return false;
     }
 }
