@@ -2,7 +2,7 @@
 
 namespace AñoBisiesto;
 
-public class UnitTest1
+public class AñoBisiesto
 {
     [Fact]
     public void Si_ElAñoNoEsDivisiblePorCuatro_Deberia_SerFalso()
@@ -10,11 +10,16 @@ public class UnitTest1
         var divisionEntreCuatro = DivisionEntreCuatro(1569);
         divisionEntreCuatro.Should().Be(false);
     }
-
+    
+    [Fact]
+    public void Si_ElAñoEsDivisiblePorCuatro_Deberia_SerVerdadero()
+    {
+        var divisionEntreCuatro = DivisionEntreCuatro(2008);
+        divisionEntreCuatro.Should().Be(true);
+    }
     private bool DivisionEntreCuatro(int año)
     {
-        if (año % 4 == 0)
-             return true;
         return false;
+        
     }
 }
