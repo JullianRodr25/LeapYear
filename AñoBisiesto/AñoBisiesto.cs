@@ -11,12 +11,17 @@ public class AñoBisiesto
         divisionEntreCuatro.Should().Be(false);
     }
     
-    [Fact]
-    public void Si_ElAñoEsDivisiblePorCuatro_Deberia_SerVerdadero()
+    [Theory]
+    [InlineData(2008)]
+    [InlineData(2004)]
+    [InlineData(2012)]
+    public void Si_ElAñoEsDivisiblePorCuatro_Deberia_SerVerdadero(int año)
     {
-        var divisionEntreCuatro = DivisionEntreCuatro(2008);
+        var divisionEntreCuatro = DivisionEntreCuatro(año);
         divisionEntreCuatro.Should().Be(true);
     }
+    
+    
     private bool DivisionEntreCuatro(int año)
     {
         return año % 4 == 0;
