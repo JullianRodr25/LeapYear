@@ -19,7 +19,6 @@ public class AñoBisiesto
     }
     private bool DivisionEntreCuatro(int año)
     {
-        return false;
-        
+        return año % 4 == 0;
     }
 }
